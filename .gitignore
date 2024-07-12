@@ -1,0 +1,5 @@
+venv/
+MNIST_classifier.pth
+data/
+.vscode/
+.DS_Store
